@@ -1,0 +1,10 @@
+[package]
+name = "crossterm-err-rep-05012021"
+version = "0.1.0"
+authors = ["ahmednooor <m.ahmednoor7@yahoo.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossterm = "0.19.0"
